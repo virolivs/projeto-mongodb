@@ -1,0 +1,5048 @@
+[{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610c90"
+  },
+  "title": "Love Story",
+  "duration": 235,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610c91"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "country",
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610c92"
+    },
+    "title": "Fearless",
+    "releaseDate": "2008-11-11",
+    "coverImageUrl": "http://linkdaimagem.com/album1.jpg"
+  },
+  "genres": [
+    "country",
+    "pop"
+  ],
+  "releaseDate": "2008-09-15",
+  "plays": 1800000,
+  "songUrl": "http://linkparamusica.com/love_story.mp3",
+  "lyrics": "You'll be the prince and I'll be the princess...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Nathan Chapman",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610c93"
+  },
+  "title": "Shake It Off",
+  "duration": 219,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610c94"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610c95"
+    },
+    "title": "1989",
+    "releaseDate": "2014-10-27",
+    "coverImageUrl": "http://linkdaimagem.com/album2.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2014-08-18",
+  "plays": 2500000,
+  "songUrl": "http://linkparamusica.com/shake_it_off.mp3",
+  "lyrics": "Cause the players gonna play, play, play, play, play...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      },
+      {
+        "name": "Max Martin",
+        "role": "composition"
+      },
+      {
+        "name": "Shellback",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Max Martin",
+        "role": "production"
+      },
+      {
+        "name": "Shellback",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610c96"
+  },
+  "title": "Blank Space",
+  "duration": 231,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610c97"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610c98"
+    },
+    "title": "1989",
+    "releaseDate": "2014-10-27",
+    "coverImageUrl": "http://linkdaimagem.com/album2.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2014-11-10",
+  "plays": 2200000,
+  "songUrl": "http://linkparamusica.com/blank_space.mp3",
+  "lyrics": "Got a long list of ex-lovers...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      },
+      {
+        "name": "Max Martin",
+        "role": "composition"
+      },
+      {
+        "name": "Jack Antonoff",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Max Martin",
+        "role": "production"
+      },
+      {
+        "name": "Jack Antonoff",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610c99"
+  },
+  "title": "Cardigan",
+  "duration": 243,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610c9a"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "indie",
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610c9b"
+    },
+    "title": "Folklore",
+    "releaseDate": "2020-07-24",
+    "coverImageUrl": "http://linkdaimagem.com/album3.jpg"
+  },
+  "genres": [
+    "indie",
+    "pop"
+  ],
+  "releaseDate": "2020-07-24",
+  "plays": 3000000,
+  "songUrl": "http://linkparamusica.com/cardigan.mp3",
+  "lyrics": "And when I felt like I was an old cardigan...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      },
+      {
+        "name": "Aaron Dessner",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Aaron Dessner",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610c9c"
+  },
+  "title": "Willow",
+  "duration": 202,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610c9d"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "folk"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610c9e"
+    },
+    "title": "Evermore",
+    "releaseDate": "2020-12-11",
+    "coverImageUrl": "http://linkdaimagem.com/album4.jpg"
+  },
+  "genres": [
+    "pop",
+    "folk"
+  ],
+  "releaseDate": "2020-12-11",
+  "plays": 1500000,
+  "songUrl": "http://linkparamusica.com/willow.mp3",
+  "lyrics": "Life was a willow and it bent right to your wind...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      },
+      {
+        "name": "Jack Antonoff",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jack Antonoff",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610c9f"
+  },
+  "title": "The Man",
+  "duration": 191,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610ca0"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610ca1"
+    },
+    "title": "Lover",
+    "releaseDate": "2019-08-23",
+    "coverImageUrl": "http://linkdaimagem.com/album5.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2019-02-28",
+  "plays": 1800000,
+  "songUrl": "http://linkparamusica.com/the_man.mp3",
+  "lyrics": "I’d be a fearless leader, I’d be an alpha type...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      },
+      {
+        "name": "Joel Little",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Taylor Swift",
+        "role": "production"
+      },
+      {
+        "name": "Joel Little",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610ca2"
+  },
+  "title": "Back To December",
+  "duration": 286,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610ca3"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "country",
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610ca4"
+    },
+    "title": "Speak Now",
+    "releaseDate": "2010-10-25",
+    "coverImageUrl": "http://linkdaimagem.com/album6.jpg"
+  },
+  "genres": [
+    "country",
+    "pop"
+  ],
+  "releaseDate": "2010-10-25",
+  "plays": 1600000,
+  "songUrl": "http://linkparamusica.com/back_to_december.mp3",
+  "lyrics": "I'm so glad you made time to see me...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      },
+      {
+        "name": "Martin Johnson",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Nathan Chapman",
+        "role": "production"
+      },
+      {
+        "name": "Taylor Swift",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610ca5"
+  },
+  "title": "Wildest Dreams",
+  "duration": 230,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610ca6"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610ca7"
+    },
+    "title": "1989",
+    "releaseDate": "2014-10-27",
+    "coverImageUrl": "http://linkdaimagem.com/album2.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2015-08-31",
+  "plays": 1900000,
+  "songUrl": "http://linkparamusica.com/wildest_dreams.mp3",
+  "lyrics": "Say you'll remember me, standing in a nice dress...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      },
+      {
+        "name": "Max Martin",
+        "role": "composition"
+      },
+      {
+        "name": "Jack Antonoff",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Max Martin",
+        "role": "production"
+      },
+      {
+        "name": "Jack Antonoff",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610ca8"
+  },
+  "title": "Anti-Hero",
+  "duration": 205,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610ca9"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610caa"
+    },
+    "title": "Midnights",
+    "releaseDate": "2022-10-21",
+    "coverImageUrl": "http://linkdaimagem.com/album7.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2022-10-21",
+  "plays": 3000000,
+  "songUrl": "http://linkparamusica.com/anti_hero.mp3",
+  "lyrics": "It's me, hi, I'm the problem, it's me...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      },
+      {
+        "name": "Jack Antonoff",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jack Antonoff",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610cab"
+  },
+  "title": "You Belong with Me",
+  "duration": 235,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610cac"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "country",
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610cad"
+    },
+    "title": "Fearless",
+    "releaseDate": "2008-11-11",
+    "coverImageUrl": "http://linkdaimagem.com/album1.jpg"
+  },
+  "genres": [
+    "country",
+    "pop"
+  ],
+  "releaseDate": "2008-04-18",
+  "plays": 2100000,
+  "songUrl": "http://linkparamusica.com/you_belong_with_me.mp3",
+  "lyrics": "You're on the phone with your girlfriend, she's upset...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      },
+      {
+        "name": "Liz Rose",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Nathan Chapman",
+        "role": "production"
+      },
+      {
+        "name": "Taylor Swift",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610cd5"
+  },
+  "title": "Blinding Lights",
+  "duration": 200,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610cd6"
+    },
+    "name": "The Weeknd",
+    "genres": [
+      "pop",
+      "synthwave"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610cd7"
+    },
+    "title": "After Hours",
+    "releaseDate": "2020-03-20",
+    "coverImageUrl": "http://linkdaimagem.com/album9.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2019-11-29",
+  "plays": 3000000,
+  "songUrl": "http://linkparamusica.com/blinding_lights.mp3",
+  "lyrics": "I've been tryna call...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "The Weeknd",
+        "role": "composition"
+      },
+      {
+        "name": "Max Martin",
+        "role": "composition"
+      },
+      {
+        "name": "Oscar Holter",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Max Martin",
+        "role": "production"
+      },
+      {
+        "name": "Oscar Holter",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610cd8"
+  },
+  "title": "Watermelon Sugar",
+  "duration": 174,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610cd9"
+    },
+    "name": "Harry Styles",
+    "genres": [
+      "pop",
+      "rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610cda"
+    },
+    "title": "Fine Line",
+    "releaseDate": "2019-12-13",
+    "coverImageUrl": "http://linkdaimagem.com/album10.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2019-11-16",
+  "plays": 2500000,
+  "songUrl": "http://linkparamusica.com/watermelon_sugar.mp3",
+  "lyrics": "Tastes like strawberries on a summer evening...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Harry Styles",
+        "role": "composition"
+      },
+      {
+        "name": "Thomas Hull",
+        "role": "composition"
+      },
+      {
+        "name": "Tyler Johnson",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Kid Harpoon",
+        "role": "production"
+      },
+      {
+        "name": "Tyler Johnson",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610cdb"
+  },
+  "title": "Shape of You",
+  "duration": 263,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610cdc"
+    },
+    "name": "Ed Sheeran",
+    "genres": [
+      "pop",
+      "dancehall"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610cdd"
+    },
+    "title": "÷ (Divide)",
+    "releaseDate": "2017-03-03",
+    "coverImageUrl": "http://linkdaimagem.com/album11.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2017-01-06",
+  "plays": 4000000,
+  "songUrl": "http://linkparamusica.com/shape_of_you.mp3",
+  "lyrics": "The club isn't the best place to find a lover...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Ed Sheeran",
+        "role": "composition"
+      },
+      {
+        "name": "John McDaid",
+        "role": "composition"
+      },
+      {
+        "name": "Steven McCutcheon",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Steve Mac",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610cde"
+  },
+  "title": "Stay",
+  "duration": 237,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610cdf"
+    },
+    "name": "The Kid LAROI & Justin Bieber",
+    "genres": [
+      "pop",
+      "rap"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610ce0"
+    },
+    "title": "F*CK LOVE (Savage)",
+    "releaseDate": "2021-07-23",
+    "coverImageUrl": "http://linkdaimagem.com/album12.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2021-07-09",
+  "plays": 2000000,
+  "songUrl": "http://linkparamusica.com/stay.mp3",
+  "lyrics": "I do the same thing I told you that I never would...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "The Kid LAROI",
+        "role": "composition"
+      },
+      {
+        "name": "Justin Bieber",
+        "role": "composition"
+      },
+      {
+        "name": "Anthony Slawek",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Charlie Puth",
+        "role": "production"
+      },
+      {
+        "name": "Rohan Campbell",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "60d21b4667d0d8992e610ce1"
+  },
+  "title": "Peaches",
+  "duration": 215,
+  "artist": {
+    "artistId": {
+      "$oid": "60d21b4667d0d8992e610ce2"
+    },
+    "name": "Justin Bieber",
+    "genres": [
+      "pop",
+      "R&B"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "60d21b4667d0d8992e610ce3"
+    },
+    "title": "Justice",
+    "releaseDate": "2021-03-19",
+    "coverImageUrl": "http://linkdaimagem.com/album13.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2021-03-19",
+  "plays": 3500000,
+  "songUrl": "http://linkparamusica.com/peaches.mp3",
+  "lyrics": "I got my peaches out in Georgia...",
+  "features": [
+    {
+      "artistId": {
+        "$oid": "60d21b4667d0d8992e610ce4"
+      },
+      "name": "Daniel Caesar",
+      "role": "vocals"
+    },
+    {
+      "artistId": {
+        "$oid": "60d21b4667d0d8992e610ce5"
+      },
+      "name": "Giveon",
+      "role": "vocals"
+    }
+  ],
+  "credits": {
+    "composers": [
+      {
+        "name": "Justin Bieber",
+        "role": "composition"
+      },
+      {
+        "name": "Daniel Caesar",
+        "role": "composition"
+      },
+      {
+        "name": "Giveon",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Harv",
+        "role": "production"
+      },
+      {
+        "name": "Austin Brown",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d1b"
+  },
+  "title": "Bad Guy",
+  "duration": 194,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d1c"
+    },
+    "name": "Billie Eilish",
+    "genres": [
+      "pop",
+      "electropop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d1d"
+    },
+    "title": "When We All Fall Asleep, Where Do We Go?",
+    "releaseDate": "2019-03-29",
+    "coverImageUrl": "http://linkdaimagem.com/album29.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2019-03-29",
+  "plays": 15000000,
+  "songUrl": "http://linkparamusica.com/bad_guy.mp3",
+  "lyrics": "White shirt, now red my bloody nose...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Billie Eilish",
+        "role": "composition"
+      },
+      {
+        "name": "Finneas O'Connell",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d1e"
+  },
+  "title": "Peaches",
+  "duration": 213,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d1f"
+    },
+    "name": "Justin Bieber",
+    "genres": [
+      "pop",
+      "R&B"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d20"
+    },
+    "title": "Justice",
+    "releaseDate": "2021-03-19",
+    "coverImageUrl": "http://linkdaimagem.com/album30.jpg"
+  },
+  "genres": [
+    "R&B",
+    "pop"
+  ],
+  "releaseDate": "2021-03-19",
+  "plays": 60000000,
+  "songUrl": "http://linkparamusica.com/peaches.mp3",
+  "lyrics": "I got my peaches out in Georgia...",
+  "features": [
+    {
+      "artistId": {
+        "$oid": "64d21b4667d0d8992e610d21"
+      },
+      "name": "Daniel Caesar",
+      "role": "vocals"
+    },
+    {
+      "artistId": {
+        "$oid": "64d21b4667d0d8992e610d22"
+      },
+      "name": "Giveon",
+      "role": "vocals"
+    }
+  ],
+  "credits": {
+    "composers": [
+      {
+        "name": "Justin Bieber",
+        "role": "composition"
+      },
+      {
+        "name": "Giveon",
+        "role": "composition"
+      },
+      {
+        "name": "Daniel Caesar",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d23"
+  },
+  "title": "Levitating",
+  "duration": 203,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d24"
+    },
+    "name": "Dua Lipa",
+    "genres": [
+      "pop",
+      "disco"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d25"
+    },
+    "title": "Future Nostalgia",
+    "releaseDate": "2020-03-27",
+    "coverImageUrl": "http://linkdaimagem.com/album31.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2020-10-01",
+  "plays": 70000000,
+  "songUrl": "http://linkparamusica.com/levitating.mp3",
+  "lyrics": "If you wanna run away with me...",
+  "features": [
+    {
+      "artistId": {
+        "$oid": "64d21b4667d0d8992e610d26"
+      },
+      "name": "DaBaby",
+      "role": "vocals"
+    }
+  ],
+  "credits": {
+    "composers": [
+      {
+        "name": "Dua Lipa",
+        "role": "composition"
+      },
+      {
+        "name": "Stephen Kozmeniuk",
+        "role": "composition"
+      },
+      {
+        "name": "DaBaby",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d27"
+  },
+  "title": "Stay",
+  "duration": 122,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d28"
+    },
+    "name": "The Kid LAROI",
+    "genres": [
+      "pop",
+      "hip-hop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d29"
+    },
+    "title": "F*CK LOVE",
+    "releaseDate": "2021-07-09",
+    "coverImageUrl": "http://linkdaimagem.com/album32.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2021-07-09",
+  "plays": 80000000,
+  "songUrl": "http://linkparamusica.com/stay.mp3",
+  "lyrics": "I do the same thing I told you that I never would...",
+  "features": [
+    {
+      "artistId": {
+        "$oid": "64d21b4667d0d8992e610d2a"
+      },
+      "name": "Justin Bieber",
+      "role": "vocals"
+    }
+  ],
+  "credits": {
+    "composers": [
+      {
+        "name": "The Kid LAROI",
+        "role": "composition"
+      },
+      {
+        "name": "Charlie Puth",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d2b"
+  },
+  "title": "Good 4 U",
+  "duration": 180,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d2c"
+    },
+    "name": "Olivia Rodrigo",
+    "genres": [
+      "pop",
+      "rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d2d"
+    },
+    "title": "SOUR",
+    "releaseDate": "2021-05-21",
+    "coverImageUrl": "http://linkdaimagem.com/album33.jpg"
+  },
+  "genres": [
+    "pop",
+    "rock"
+  ],
+  "releaseDate": "2021-05-14",
+  "plays": 90000000,
+  "songUrl": "http://linkparamusica.com/good_4_u.mp3",
+  "lyrics": "Well, good for you, I guess you moved on really easily...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Olivia Rodrigo",
+        "role": "composition"
+      },
+      {
+        "name": "Dan Nigro",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d2e"
+  },
+  "title": "Summertime Sadness",
+  "duration": 235,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d2f"
+    },
+    "name": "Lana Del Rey",
+    "genres": [
+      "pop",
+      "indie pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d30"
+    },
+    "title": "Born to Die",
+    "releaseDate": "2012-01-27",
+    "coverImageUrl": "http://linkdaimagem.com/album34.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2012-06-22",
+  "plays": 50000000,
+  "songUrl": "http://linkparamusica.com/summertime_sadness.mp3",
+  "lyrics": "I've got that summertime, summertime sadness...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Lana Del Rey",
+        "role": "composition"
+      },
+      {
+        "name": "Rick Nowels",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d31"
+  },
+  "title": "Young and Beautiful",
+  "duration": 288,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d32"
+    },
+    "name": "Lana Del Rey",
+    "genres": [
+      "pop",
+      "baroque pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d33"
+    },
+    "title": "The Great Gatsby Soundtrack",
+    "releaseDate": "2013-05-07",
+    "coverImageUrl": "http://linkdaimagem.com/album35.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2013-04-23",
+  "plays": 70000000,
+  "songUrl": "http://linkparamusica.com/young_and_beautiful.mp3",
+  "lyrics": "Will you still love me when I'm no longer young and beautiful?",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Lana Del Rey",
+        "role": "composition"
+      },
+      {
+        "name": "Rick Nowels",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d34"
+  },
+  "title": "Love",
+  "duration": 237,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d35"
+    },
+    "name": "Lana Del Rey",
+    "genres": [
+      "pop",
+      "synth-pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d36"
+    },
+    "title": "Lust for Life",
+    "releaseDate": "2017-07-21",
+    "coverImageUrl": "http://linkdaimagem.com/album36.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2017-02-18",
+  "plays": 30000000,
+  "songUrl": "http://linkparamusica.com/love.mp3",
+  "lyrics": "I found myself in love with you...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Lana Del Rey",
+        "role": "composition"
+      },
+      {
+        "name": "Emile Haynie",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d37"
+  },
+  "title": "West Coast",
+  "duration": 275,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d38"
+    },
+    "name": "Lana Del Rey",
+    "genres": [
+      "pop",
+      "rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d39"
+    },
+    "title": "Ultraviolence",
+    "releaseDate": "2014-06-13",
+    "coverImageUrl": "http://linkdaimagem.com/album37.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2014-04-14",
+  "plays": 45000000,
+  "songUrl": "http://linkparamusica.com/west_coast.mp3",
+  "lyrics": "Down on the West Coast, they got a saying...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Lana Del Rey",
+        "role": "composition"
+      },
+      {
+        "name": "Dan Auerbach",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d3a"
+  },
+  "title": "Cinnamon Girl",
+  "duration": 253,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d3b"
+    },
+    "name": "Lana Del Rey",
+    "genres": [
+      "pop",
+      "alternative"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d3c"
+    },
+    "title": "Norman Fucking Rockwell!",
+    "releaseDate": "2019-08-30",
+    "coverImageUrl": "http://linkdaimagem.com/album38.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2019-08-30",
+  "plays": 20000000,
+  "songUrl": "http://linkparamusica.com/cinnamon_girl.mp3",
+  "lyrics": "I’m in love with you, and all these people...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Lana Del Rey",
+        "role": "composition"
+      },
+      {
+        "name": "Jack Antonoff",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d4f"
+  },
+  "title": "Bohemian Rhapsody",
+  "duration": 354,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d50"
+    },
+    "name": "Queen",
+    "genres": [
+      "rock",
+      "progressive rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d51"
+    },
+    "title": "A Night at the Opera",
+    "releaseDate": "1975-11-21",
+    "coverImageUrl": "http://linkdaimagem.com/album33.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1975-10-31",
+  "plays": 60000000,
+  "songUrl": "http://linkparamusica.com/bohemian_rhapsody.mp3",
+  "lyrics": "Is this the real life? Is this just fantasy?",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Freddie Mercury",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Roy Thomas Baker",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d52"
+  },
+  "title": "Stairway to Heaven",
+  "duration": 482,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d53"
+    },
+    "name": "Led Zeppelin",
+    "genres": [
+      "rock",
+      "hard rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d54"
+    },
+    "title": "Led Zeppelin IV",
+    "releaseDate": "1971-11-08",
+    "coverImageUrl": "http://linkdaimagem.com/album34.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1971-11-08",
+  "plays": 50000000,
+  "songUrl": "http://linkparamusica.com/stairway_to_heaven.mp3",
+  "lyrics": "There's a lady who's sure all that glitters is gold...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Robert Plant",
+        "role": "composition"
+      },
+      {
+        "name": "Jimmy Page",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jimmy Page",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d55"
+  },
+  "title": "Sweet Child o' Mine",
+  "duration": 356,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d56"
+    },
+    "name": "Guns N' Roses",
+    "genres": [
+      "rock",
+      "hard rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d57"
+    },
+    "title": "Appetite for Destruction",
+    "releaseDate": "1987-07-21",
+    "coverImageUrl": "http://linkdaimagem.com/album35.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1987-08-17",
+  "plays": 70000000,
+  "songUrl": "http://linkparamusica.com/sweet_child_o_mine.mp3",
+  "lyrics": "She's got a smile that it seems to me...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Axl Rose",
+        "role": "composition"
+      },
+      {
+        "name": "Slash",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Mike Clink",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d58"
+  },
+  "title": "Hotel California",
+  "duration": 391,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d59"
+    },
+    "name": "Eagles",
+    "genres": [
+      "rock",
+      "soft rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d5a"
+    },
+    "title": "Hotel California",
+    "releaseDate": "1976-12-08",
+    "coverImageUrl": "http://linkdaimagem.com/album36.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1976-12-08",
+  "plays": 80000000,
+  "songUrl": "http://linkparamusica.com/hotel_california.mp3",
+  "lyrics": "On a dark desert highway, cool wind in my hair...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Don Felder",
+        "role": "composition"
+      },
+      {
+        "name": "Glenn Frey",
+        "role": "composition"
+      },
+      {
+        "name": "Don Henley",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Bill Szymczyk",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d5b"
+  },
+  "title": "Back In Black",
+  "duration": 255,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d5c"
+    },
+    "name": "AC/DC",
+    "genres": [
+      "rock",
+      "hard rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d5d"
+    },
+    "title": "Back In Black",
+    "releaseDate": "1980-07-25",
+    "coverImageUrl": "http://linkdaimagem.com/album37.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1980-07-25",
+  "plays": 90000000,
+  "songUrl": "http://linkparamusica.com/back_in_black.mp3",
+  "lyrics": "I'm back in black, I hit the sack...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Angus Young",
+        "role": "composition"
+      },
+      {
+        "name": "Malcolm Young",
+        "role": "composition"
+      },
+      {
+        "name": "Brian Johnson",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Mutt Lange",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d60"
+  },
+  "title": "Hey Jude",
+  "duration": 431,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d61"
+    },
+    "name": "The Beatles",
+    "genres": [
+      "rock",
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d62"
+    },
+    "title": "Hey Jude",
+    "releaseDate": "1968-08-26",
+    "coverImageUrl": "http://linkdaimagem.com/album38.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1968-08-26",
+  "plays": 30000000,
+  "songUrl": "http://linkparamusica.com/hey_jude.mp3",
+  "lyrics": "Hey Jude, don't make it bad...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Paul McCartney",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "George Martin",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d63"
+  },
+  "title": "Let It Be",
+  "duration": 243,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d61"
+    },
+    "name": "The Beatles",
+    "genres": [
+      "rock",
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d64"
+    },
+    "title": "Let It Be",
+    "releaseDate": "1970-05-08",
+    "coverImageUrl": "http://linkdaimagem.com/album39.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1970-03-06",
+  "plays": 40000000,
+  "songUrl": "http://linkparamusica.com/let_it_be.mp3",
+  "lyrics": "When I find myself in times of trouble...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Paul McCartney",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Phil Spector",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d65"
+  },
+  "title": "Come Together",
+  "duration": 259,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d61"
+    },
+    "name": "The Beatles",
+    "genres": [
+      "rock",
+      "blues rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d66"
+    },
+    "title": "Abbey Road",
+    "releaseDate": "1969-09-26",
+    "coverImageUrl": "http://linkdaimagem.com/album40.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1969-10-06",
+  "plays": 25000000,
+  "songUrl": "http://linkparamusica.com/come_together.mp3",
+  "lyrics": "Here come old flat top, he come grooving up slowly...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "John Lennon",
+        "role": "composition"
+      },
+      {
+        "name": "Paul McCartney",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "George Martin",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d67"
+  },
+  "title": "Here Comes the Sun",
+  "duration": 185,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d61"
+    },
+    "name": "The Beatles",
+    "genres": [
+      "rock",
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d68"
+    },
+    "title": "Abbey Road",
+    "releaseDate": "1969-09-26",
+    "coverImageUrl": "http://linkdaimagem.com/album40.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1969-09-26",
+  "plays": 35000000,
+  "songUrl": "http://linkparamusica.com/here_comes_the_sun.mp3",
+  "lyrics": "Here comes the sun, doo-doo-doo-doo...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "George Harrison",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "George Martin",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4667d0d8992e610d69"
+  },
+  "title": "A Hard Day's Night",
+  "duration": 195,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4667d0d8992e610d61"
+    },
+    "name": "The Beatles",
+    "genres": [
+      "rock",
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4667d0d8992e610d6a"
+    },
+    "title": "A Hard Day's Night",
+    "releaseDate": "1964-07-10",
+    "coverImageUrl": "http://linkdaimagem.com/album41.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1964-07-10",
+  "plays": 22000000,
+  "songUrl": "http://linkparamusica.com/a_hard_days_night.mp3",
+  "lyrics": "It's been a hard day's night, and I've been working like a dog...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "John Lennon",
+        "role": "composition"
+      },
+      {
+        "name": "Paul McCartney",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "George Martin",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4767d0d8992e610d74"
+  },
+  "title": "Seven Nation Army",
+  "duration": 210,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4767d0d8992e610d75"
+    },
+    "name": "The White Stripes",
+    "genres": [
+      "rock",
+      "alternative rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4767d0d8992e610d76"
+    },
+    "title": "Elephant",
+    "releaseDate": "2003-04-01",
+    "coverImageUrl": "http://linkdaimagem.com/album45.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "2003-04-01",
+  "plays": 50000000,
+  "songUrl": "http://linkparamusica.com/seven_nation_army.mp3",
+  "lyrics": "I'm gonna fight 'em off...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Jack White",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jack White",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4767d0d8992e610d77"
+  },
+  "title": "Take Me Out",
+  "duration": 259,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4767d0d8992e610d78"
+    },
+    "name": "Franz Ferdinand",
+    "genres": [
+      "rock",
+      "indie rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4767d0d8992e610d79"
+    },
+    "title": "Franz Ferdinand",
+    "releaseDate": "2004-02-09",
+    "coverImageUrl": "http://linkdaimagem.com/album46.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "2004-02-09",
+  "plays": 35000000,
+  "songUrl": "http://linkparamusica.com/take_me_out.mp3",
+  "lyrics": "So if you're lonely, you know I'm here waiting for you...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Alex Kapranos",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jaime Fowlds",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4767d0d8992e610d7b"
+  },
+  "title": "Use Somebody",
+  "duration": 218,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4767d0d8992e610d7c"
+    },
+    "name": "Kings of Leon",
+    "genres": [
+      "rock",
+      "alternative rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4767d0d8992e610d7d"
+    },
+    "title": "Only by the Night",
+    "releaseDate": "2008-09-19",
+    "coverImageUrl": "http://linkdaimagem.com/album47.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "2008-09-19",
+  "plays": 45000000,
+  "songUrl": "http://linkparamusica.com/use_somebody.mp3",
+  "lyrics": "I've been roaming around always looking down at all I see...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Caleb Followill",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jacquire King",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4767d0d8992e610d7f"
+  },
+  "title": "Mr. Brightside",
+  "duration": 223,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4767d0d8992e610d80"
+    },
+    "name": "The Killers",
+    "genres": [
+      "rock",
+      "alternative rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4767d0d8992e610d81"
+    },
+    "title": "Hot Fuss",
+    "releaseDate": "2004-06-07",
+    "coverImageUrl": "http://linkdaimagem.com/album48.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "2004-06-07",
+  "plays": 65000000,
+  "songUrl": "http://linkparamusica.com/mr_brightside.mp3",
+  "lyrics": "Coming out of my cage and I've been doing just fine...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Brandon Flowers",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jeff Saltzman",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21b4767d0d8992e610d83"
+  },
+  "title": "Stolen Dance",
+  "duration": 269,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21b4767d0d8992e610d84"
+    },
+    "name": "Milky Chance",
+    "genres": [
+      "rock",
+      "folk rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21b4767d0d8992e610d85"
+    },
+    "title": "Sadnecessary",
+    "releaseDate": "2013-03-01",
+    "coverImageUrl": "http://linkdaimagem.com/album49.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "2013-03-01",
+  "plays": 40000000,
+  "songUrl": "http://linkparamusica.com/stolen_dance.mp3",
+  "lyrics": "I want you to breathe me, let me be your air...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Felix Jaehn",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Milky Chance",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610db5"
+  },
+  "title": "Creep",
+  "duration": 219,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610db6"
+    },
+    "name": "Radiohead",
+    "genres": [
+      "alternative rock",
+      "grunge"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610db7"
+    },
+    "title": "Pablo Honey",
+    "releaseDate": "1993-02-22",
+    "coverImageUrl": "http://linkdaimagem.com/album65.jpg"
+  },
+  "genres": [
+    "alternative rock"
+  ],
+  "releaseDate": "1992-09-21",
+  "plays": 50000000,
+  "songUrl": "http://linkparamusica.com/creep.mp3",
+  "lyrics": "I'm a creep, I'm a weirdo...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Thom Yorke",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Sean Slade",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610db8"
+  },
+  "title": "Karma Police",
+  "duration": 258,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610db6"
+    },
+    "name": "Radiohead",
+    "genres": [
+      "alternative rock",
+      "art rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610db9"
+    },
+    "title": "OK Computer",
+    "releaseDate": "1997-05-21",
+    "coverImageUrl": "http://linkdaimagem.com/album66.jpg"
+  },
+  "genres": [
+    "alternative rock"
+  ],
+  "releaseDate": "1997-05-21",
+  "plays": 60000000,
+  "songUrl": "http://linkparamusica.com/karma_police.mp3",
+  "lyrics": "Karma police, arrest this man...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Thom Yorke",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Nigel Godrich",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dba"
+  },
+  "title": "No Surprises",
+  "duration": 207,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610db6"
+    },
+    "name": "Radiohead",
+    "genres": [
+      "alternative rock",
+      "art rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610db9"
+    },
+    "title": "OK Computer",
+    "releaseDate": "1997-05-21",
+    "coverImageUrl": "http://linkdaimagem.com/album66.jpg"
+  },
+  "genres": [
+    "alternative rock"
+  ],
+  "releaseDate": "1997-05-21",
+  "plays": 45000000,
+  "songUrl": "http://linkparamusica.com/no_surprises.mp3",
+  "lyrics": "A heart that's full up like a landfill...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Thom Yorke",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Nigel Godrich",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dbc"
+  },
+  "title": "Street Spirit (Fade Out)",
+  "duration": 210,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610db6"
+    },
+    "name": "Radiohead",
+    "genres": [
+      "alternative rock",
+      "post-rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dbe"
+    },
+    "title": "The Bends",
+    "releaseDate": "1995-03-13",
+    "coverImageUrl": "http://linkdaimagem.com/album67.jpg"
+  },
+  "genres": [
+    "alternative rock"
+  ],
+  "releaseDate": "1995-03-13",
+  "plays": 35000000,
+  "songUrl": "http://linkparamusica.com/street_spirit.mp3",
+  "lyrics": "Rows of houses all bearing down on me...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Thom Yorke",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "John Leckie",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dbf"
+  },
+  "title": "Idioteque",
+  "duration": 318,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610db6"
+    },
+    "name": "Radiohead",
+    "genres": [
+      "alternative rock",
+      "electronic"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dc0"
+    },
+    "title": "Kid A",
+    "releaseDate": "2000-10-02",
+    "coverImageUrl": "http://linkdaimagem.com/album68.jpg"
+  },
+  "genres": [
+    "alternative rock"
+  ],
+  "releaseDate": "2000-10-02",
+  "plays": 70000000,
+  "songUrl": "http://linkparamusica.com/idioteque.mp3",
+  "lyrics": "Ice age coming, ice age coming...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Thom Yorke",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Nigel Godrich",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dc1"
+  },
+  "title": "Sweet Child o' Mine",
+  "duration": 356,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610dc2"
+    },
+    "name": "Guns N' Roses",
+    "genres": [
+      "hard rock",
+      "rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dc3"
+    },
+    "title": "Appetite for Destruction",
+    "releaseDate": "1987-07-21",
+    "coverImageUrl": "http://linkdaimagem.com/album69.jpg"
+  },
+  "genres": [
+    "hard rock"
+  ],
+  "releaseDate": "1987-05-16",
+  "plays": 70000000,
+  "songUrl": "http://linkparamusica.com/sweet_child.mp3",
+  "lyrics": "She's got a smile that it seems to me...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Axl Rose",
+        "role": "composition"
+      },
+      {
+        "name": "Slash",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Mike Clink",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dc4"
+  },
+  "title": "Billie Jean",
+  "duration": 294,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610dc5"
+    },
+    "name": "Michael Jackson",
+    "genres": [
+      "pop",
+      "rock",
+      "R&B"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dc6"
+    },
+    "title": "Thriller",
+    "releaseDate": "1982-11-30",
+    "coverImageUrl": "http://linkdaimagem.com/album70.jpg"
+  },
+  "genres": [
+    "pop",
+    "R&B"
+  ],
+  "releaseDate": "1983-01-02",
+  "plays": 80000000,
+  "songUrl": "http://linkparamusica.com/billie_jean.mp3",
+  "lyrics": "She was more like a beauty queen...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Michael Jackson",
+        "role": "composition"
+      },
+      {
+        "name": "Rod Temperton",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Quincy Jones",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dc7"
+  },
+  "title": "Like a Prayer",
+  "duration": 295,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610dc8"
+    },
+    "name": "Madonna",
+    "genres": [
+      "pop",
+      "dance"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dc9"
+    },
+    "title": "Like a Prayer",
+    "releaseDate": "1989-03-21",
+    "coverImageUrl": "http://linkdaimagem.com/album71.jpg"
+  },
+  "genres": [
+    "pop",
+    "rock"
+  ],
+  "releaseDate": "1989-02-07",
+  "plays": 60000000,
+  "songUrl": "http://linkparamusica.com/like_a_prayer.mp3",
+  "lyrics": "When you call my name, it's like a little prayer...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Madonna",
+        "role": "composition"
+      },
+      {
+        "name": "Patrick Leonard",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "David Foster",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dca"
+  },
+  "title": "Eye of the Tiger",
+  "duration": 245,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610dcb"
+    },
+    "name": "Survivor",
+    "genres": [
+      "rock",
+      "hard rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dcc"
+    },
+    "title": "Eye of the Tiger",
+    "releaseDate": "1982-05-01",
+    "coverImageUrl": "http://linkdaimagem.com/album72.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1982-05-01",
+  "plays": 50000000,
+  "songUrl": "http://linkparamusica.com/eye_of_the_tiger.mp3",
+  "lyrics": "Rising up, back on the street...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Jim Peterik",
+        "role": "composition"
+      },
+      {
+        "name": "Frank Sullivan",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Ron Nevison",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dce"
+  },
+  "title": "I Wanna Dance with Somebody",
+  "duration": 270,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610dcf"
+    },
+    "name": "Whitney Houston",
+    "genres": [
+      "pop",
+      "dance"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dd0"
+    },
+    "title": "Whitney",
+    "releaseDate": "1987-02-02",
+    "coverImageUrl": "http://linkdaimagem.com/album73.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "1987-04-30",
+  "plays": 70000000,
+  "songUrl": "http://linkparamusica.com/i_wanna_dance.mp3",
+  "lyrics": "Clock strikes upon the hour...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "George Merrill",
+        "role": "composition"
+      },
+      {
+        "name": "Shannon Rubicam",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Narada Michael Walden",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610de5"
+  },
+  "title": "Deja Vu",
+  "duration": 207,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610de6"
+    },
+    "name": "Olivia Rodrigo",
+    "genres": [
+      "pop",
+      "rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610de7"
+    },
+    "title": "SOUR",
+    "releaseDate": "2021-05-21",
+    "coverImageUrl": "http://linkdaimagem.com/album77.jpg"
+  },
+  "genres": [
+    "pop",
+    "rock"
+  ],
+  "releaseDate": "2021-04-05",
+  "plays": 30000000,
+  "songUrl": "http://linkparamusica.com/deja_vu.mp3",
+  "lyrics": "Car rides to Malibu, strawberry ice cream...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Olivia Rodrigo",
+        "role": "composition"
+      },
+      {
+        "name": "Dan Nigro",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Dan Nigro",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610de8"
+  },
+  "title": "Woman",
+  "duration": 190,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610de9"
+    },
+    "name": "Doja Cat",
+    "genres": [
+      "pop",
+      "R&B"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dea"
+    },
+    "title": "Planet Her",
+    "releaseDate": "2021-06-25",
+    "coverImageUrl": "http://linkdaimagem.com/album78.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2021-06-25",
+  "plays": 25000000,
+  "songUrl": "http://linkparamusica.com/woman.mp3",
+  "lyrics": "I’m a mother, I’m a woman...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Doja Cat",
+        "role": "composition"
+      },
+      {
+        "name": "Evan La Ray",
+        "role": "composition"
+      },
+      {
+        "name": "Yeti Beats",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Yeti Beats",
+        "role": "production"
+      },
+      {
+        "name": "Evan La Ray",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610deb"
+  },
+  "title": "Good Days",
+  "duration": 214,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610dec"
+    },
+    "name": "SZA",
+    "genres": [
+      "R&B",
+      "soul"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610ded"
+    },
+    "title": "Good Days (Single)",
+    "releaseDate": "2020-12-25",
+    "coverImageUrl": "http://linkdaimagem.com/album79.jpg"
+  },
+  "genres": [
+    "R&B"
+  ],
+  "releaseDate": "2020-12-25",
+  "plays": 35000000,
+  "songUrl": "http://linkparamusica.com/good_days.mp3",
+  "lyrics": "Good day in my mind...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "SZA",
+        "role": "composition"
+      },
+      {
+        "name": "Rob Bisel",
+        "role": "composition"
+      },
+      {
+        "name": "Carter Lang",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Rob Bisel",
+        "role": "production"
+      },
+      {
+        "name": "Carter Lang",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dee"
+  },
+  "title": "Kiss Me More",
+  "duration": 202,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610de2"
+    },
+    "name": "Doja Cat",
+    "genres": [
+      "pop",
+      "R&B"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610de3"
+    },
+    "title": "Planet Her",
+    "releaseDate": "2021-06-25",
+    "coverImageUrl": "http://linkdaimagem.com/album78.jpg"
+  },
+  "genres": [
+    "pop"
+  ],
+  "releaseDate": "2021-04-09",
+  "plays": 50000000,
+  "songUrl": "http://linkparamusica.com/kiss_me_more.mp3",
+  "lyrics": "Can you kiss me more?",
+  "features": [
+    {
+      "artistId": {
+        "$oid": "64d21c4767d0d8992e610de4"
+      },
+      "name": "SZA",
+      "role": "vocals"
+    }
+  ],
+  "credits": {
+    "composers": [
+      {
+        "name": "Doja Cat",
+        "role": "composition"
+      },
+      {
+        "name": "Yeti Beats",
+        "role": "composition"
+      },
+      {
+        "name": "SZA",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Yeti Beats",
+        "role": "production"
+      },
+      {
+        "name": "Evan La Ray",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610def"
+  },
+  "title": "traitor",
+  "duration": 200,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610de6"
+    },
+    "name": "Olivia Rodrigo",
+    "genres": [
+      "pop",
+      "rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610de7"
+    },
+    "title": "SOUR",
+    "releaseDate": "2021-05-21",
+    "coverImageUrl": "http://linkdaimagem.com/album77.jpg"
+  },
+  "genres": [
+    "pop",
+    "rock"
+  ],
+  "releaseDate": "2021-05-21",
+  "plays": 28000000,
+  "songUrl": "http://linkparamusica.com/traitor.mp3",
+  "lyrics": "Gave you my heart, I thought you would stay...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Olivia Rodrigo",
+        "role": "composition"
+      },
+      {
+        "name": "Dan Nigro",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Dan Nigro",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610df0"
+  },
+  "title": "Roundabout",
+  "duration": 437,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610df1"
+    },
+    "name": "Yes",
+    "genres": [
+      "rock",
+      "progressive rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610df2"
+    },
+    "title": "Fragile",
+    "releaseDate": "1971-11-26",
+    "coverImageUrl": "http://linkdaimagem.com/album80.jpg"
+  },
+  "genres": [
+    "rock",
+    "progressive rock"
+  ],
+  "releaseDate": "1971-11-26",
+  "plays": 15000000,
+  "songUrl": "http://linkparamusica.com/roundabout.mp3",
+  "lyrics": "I'll be the roundabout...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Yes",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Phil Carson",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610df3"
+  },
+  "title": "The Court of the Crimson King",
+  "duration": 432,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610df4"
+    },
+    "name": "King Crimson",
+    "genres": [
+      "rock",
+      "progressive rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610df5"
+    },
+    "title": "In the Court of the Crimson King",
+    "releaseDate": "1969-10-10",
+    "coverImageUrl": "http://linkdaimagem.com/album81.jpg"
+  },
+  "genres": [
+    "rock",
+    "progressive rock"
+  ],
+  "releaseDate": "1969-10-10",
+  "plays": 20000000,
+  "songUrl": "http://linkparamusica.com/court_of_the_crimson_king.mp3",
+  "lyrics": "The court of the crimson king...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Robert Fripp",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Pete Sinfield",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610df6"
+  },
+  "title": "Fool's Overture",
+  "duration": 569,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610df7"
+    },
+    "name": "Supertramp",
+    "genres": [
+      "rock",
+      "progressive rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610df8"
+    },
+    "title": "Even in the Quietest Moments...",
+    "releaseDate": "1977-04-01",
+    "coverImageUrl": "http://linkdaimagem.com/album82.jpg"
+  },
+  "genres": [
+    "rock",
+    "progressive rock"
+  ],
+  "releaseDate": "1977-04-01",
+  "plays": 12000000,
+  "songUrl": "http://linkparamusica.com/fools_overture.mp3",
+  "lyrics": "History will teach us nothing...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Roger Hodgson",
+        "role": "composition"
+      },
+      {
+        "name": "Rick Davies",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Peter Henderson",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610df9"
+  },
+  "title": "Brain Damage",
+  "duration": 210,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610dfa"
+    },
+    "name": "Pink Floyd",
+    "genres": [
+      "rock",
+      "progressive rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dfb"
+    },
+    "title": "The Dark Side of the Moon",
+    "releaseDate": "1973-03-01",
+    "coverImageUrl": "http://linkdaimagem.com/album83.jpg"
+  },
+  "genres": [
+    "rock",
+    "progressive rock"
+  ],
+  "releaseDate": "1973-03-01",
+  "plays": 30000000,
+  "songUrl": "http://linkparamusica.com/brain_damage.mp3",
+  "lyrics": "The lunatic is on the grass...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Roger Waters",
+        "role": "composition"
+      },
+      {
+        "name": "David Gilmour",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Chris Thomas",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610dfc"
+  },
+  "title": "Aqualung",
+  "duration": 352,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610dfd"
+    },
+    "name": "Jethro Tull",
+    "genres": [
+      "rock",
+      "progressive rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610dfe"
+    },
+    "title": "Aqualung",
+    "releaseDate": "1971-03-19",
+    "coverImageUrl": "http://linkdaimagem.com/album84.jpg"
+  },
+  "genres": [
+    "rock",
+    "progressive rock"
+  ],
+  "releaseDate": "1971-03-19",
+  "plays": 18000000,
+  "songUrl": "http://linkparamusica.com/aqualung.mp3",
+  "lyrics": "Aqualung, my friend...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Ian Anderson",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Ian Anderson",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e01"
+  },
+  "title": "N.Y. State of Mind",
+  "duration": 360,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e02"
+    },
+    "name": "Nas",
+    "genres": [
+      "hip hop",
+      "rap"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e03"
+    },
+    "title": "Illmatic",
+    "releaseDate": "1994-04-19",
+    "coverImageUrl": "http://linkdaimagem.com/album90.jpg"
+  },
+  "genres": [
+    "hip hop",
+    "rap"
+  ],
+  "releaseDate": "1994-04-19",
+  "plays": 25000000,
+  "songUrl": "http://linkparamusica.com/ny_state_of_mind.mp3",
+  "lyrics": "I don't know how to start this...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Nas",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Pete Rock",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e04"
+  },
+  "title": "California Love",
+  "duration": 378,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e05"
+    },
+    "name": "2Pac",
+    "genres": [
+      "hip hop",
+      "rap"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e06"
+    },
+    "title": "All Eyez on Me",
+    "releaseDate": "1996-02-13",
+    "coverImageUrl": "http://linkdaimagem.com/album91.jpg"
+  },
+  "genres": [
+    "hip hop",
+    "rap"
+  ],
+  "releaseDate": "1996-02-13",
+  "plays": 30000000,
+  "songUrl": "http://linkparamusica.com/california_love.mp3",
+  "lyrics": "Now let me welcome everybody to the wild, wild west...",
+  "features": [
+    {
+      "artistId": {
+        "$oid": "64d21c4767d0d8992e610e07"
+      },
+      "name": "Dr. Dre",
+      "role": "vocals"
+    }
+  ],
+  "credits": {
+    "composers": [
+      {
+        "name": "2Pac",
+        "role": "composition"
+      },
+      {
+        "name": "Dr. Dre",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Dr. Dre",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e08"
+  },
+  "title": "Juicy",
+  "duration": 360,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e09"
+    },
+    "name": "The Notorious B.I.G.",
+    "genres": [
+      "hip hop",
+      "rap"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e0a"
+    },
+    "title": "Ready to Die",
+    "releaseDate": "1994-09-13",
+    "coverImageUrl": "http://linkdaimagem.com/album92.jpg"
+  },
+  "genres": [
+    "hip hop",
+    "rap"
+  ],
+  "releaseDate": "1994-09-13",
+  "plays": 35000000,
+  "songUrl": "http://linkparamusica.com/juicy.mp3",
+  "lyrics": "It was all a dream...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "The Notorious B.I.G.",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Puff Daddy",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e0b"
+  },
+  "title": "Rosa Parks",
+  "duration": 300,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e0c"
+    },
+    "name": "OutKast",
+    "genres": [
+      "hip hop",
+      "rap"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e0d"
+    },
+    "title": "Aquemini",
+    "releaseDate": "1998-09-29",
+    "coverImageUrl": "http://linkdaimagem.com/album93.jpg"
+  },
+  "genres": [
+    "hip hop",
+    "rap"
+  ],
+  "releaseDate": "1998-09-29",
+  "plays": 20000000,
+  "songUrl": "http://linkparamusica.com/rosa_parks.mp3",
+  "lyrics": "Ah, ha, hush that fuss...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "André 3000",
+        "role": "composition"
+      },
+      {
+        "name": "Big Boi",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "EarthTone III",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e0e"
+  },
+  "title": "Gangsta's Paradise",
+  "duration": 255,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e0f"
+    },
+    "name": "Coolio",
+    "genres": [
+      "hip hop",
+      "rap"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e10"
+    },
+    "title": "Gangsta's Paradise",
+    "releaseDate": "1995-08-21",
+    "coverImageUrl": "http://linkdaimagem.com/album94.jpg"
+  },
+  "genres": [
+    "hip hop",
+    "rap"
+  ],
+  "releaseDate": "1995-08-21",
+  "plays": 40000000,
+  "songUrl": "http://linkparamusica.com/gangstas_paradise.mp3",
+  "lyrics": "Been spendin' most my life living in a gangsta's paradise...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Coolio",
+        "role": "composition"
+      },
+      {
+        "name": "Doug Rasheed",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Doug Rasheed",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e11"
+  },
+  "title": "The End",
+  "duration": 540,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e12"
+    },
+    "name": "The Doors",
+    "genres": [
+      "rock",
+      "psychedelic rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e13"
+    },
+    "title": "The Doors",
+    "releaseDate": "1967-01-04",
+    "coverImageUrl": "http://linkdaimagem.com/album95.jpg"
+  },
+  "genres": [
+    "rock",
+    "psychedelic"
+  ],
+  "releaseDate": "1967-01-04",
+  "plays": 15000000,
+  "songUrl": "http://linkparamusica.com/the_end.mp3",
+  "lyrics": "This is the end...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Jim Morrison",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Paul A. Rothchild",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e14"
+  },
+  "title": "Thick as a Brick",
+  "duration": 420,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e15"
+    },
+    "name": "Jethro Tull",
+    "genres": [
+      "progressive rock",
+      "folk rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e16"
+    },
+    "title": "Thick as a Brick",
+    "releaseDate": "1972-03-10",
+    "coverImageUrl": "http://linkdaimagem.com/album96.jpg"
+  },
+  "genres": [
+    "progressive rock"
+  ],
+  "releaseDate": "1972-03-10",
+  "plays": 12000000,
+  "songUrl": "http://linkparamusica.com/thick_as_a_brick.mp3",
+  "lyrics": "Really don't mind if you sit this one out...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Ian Anderson",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Ian Anderson",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e17"
+  },
+  "title": "A Day in the Life",
+  "duration": 395,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e18"
+    },
+    "name": "The Beatles",
+    "genres": [
+      "rock",
+      "pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e19"
+    },
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "releaseDate": "1967-05-26",
+    "coverImageUrl": "http://linkdaimagem.com/album97.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1967-05-26",
+  "plays": 18000000,
+  "songUrl": "http://linkparamusica.com/a_day_in_the_life.mp3",
+  "lyrics": "I read the news today, oh boy...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "John Lennon",
+        "role": "composition"
+      },
+      {
+        "name": "Paul McCartney",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "George Martin",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e1a"
+  },
+  "title": "Close to the Edge",
+  "duration": 600,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e1b"
+    },
+    "name": "Yes",
+    "genres": [
+      "progressive rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e1c"
+    },
+    "title": "Close to the Edge",
+    "releaseDate": "1972-09-13",
+    "coverImageUrl": "http://linkdaimagem.com/album98.jpg"
+  },
+  "genres": [
+    "progressive rock"
+  ],
+  "releaseDate": "1972-09-13",
+  "plays": 10000000,
+  "songUrl": "http://linkparamusica.com/close_to_the_edge.mp3",
+  "lyrics": "A seasoned witch could call you from the depths of your imagination...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Jon Anderson",
+        "role": "composition"
+      },
+      {
+        "name": "Chris Squire",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Eddie Offord",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e1d"
+  },
+  "title": "In-A-Gadda-Da-Vida",
+  "duration": 600,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e1e"
+    },
+    "name": "Iron Butterfly",
+    "genres": [
+      "rock",
+      "psychedelic rock"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e1f"
+    },
+    "title": "In-A-Gadda-Da-Vida",
+    "releaseDate": "1968-06-14",
+    "coverImageUrl": "http://linkdaimagem.com/album99.jpg"
+  },
+  "genres": [
+    "rock"
+  ],
+  "releaseDate": "1968-06-14",
+  "plays": 13000000,
+  "songUrl": "http://linkparamusica.com/in_a_gadda_da_vida.mp3",
+  "lyrics": "In-A-Gadda-Da-Vida, baby...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Doug Ingle",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jim Hilton",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e2a"
+  },
+  "title": "Aquarela",
+  "duration": 230,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e2b"
+    },
+    "name": "Toquinho",
+    "genres": [
+      "samba",
+      "bossa nova"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e2c"
+    },
+    "title": "Aquarela",
+    "releaseDate": "1983-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album100.jpg"
+  },
+  "genres": [
+    "samba"
+  ],
+  "releaseDate": "1983-01-01",
+  "plays": 5000000,
+  "songUrl": "http://linkparamusica.com/aquarela.mp3",
+  "lyrics": "Numa folha qualquer eu desenho um sol amarelo...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Toquinho",
+        "role": "composition"
+      },
+      {
+        "name": "Vinicius de Moraes",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e2d"
+  },
+  "title": "Mas, Que Nada!",
+  "duration": 210,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e2e"
+    },
+    "name": "Jorge Ben Jor",
+    "genres": [
+      "samba",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e2f"
+    },
+    "title": "Samba Esquema Novo",
+    "releaseDate": "1963-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album101.jpg"
+  },
+  "genres": [
+    "samba"
+  ],
+  "releaseDate": "1963-01-01",
+  "plays": 6000000,
+  "songUrl": "http://linkparamusica.com/mas_que_nada.mp3",
+  "lyrics": "Obá, obá, obá...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Jorge Ben Jor",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e30"
+  },
+  "title": "O Mundo é um Moinho",
+  "duration": 210,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e31"
+    },
+    "name": "Cartola",
+    "genres": [
+      "samba"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e32"
+    },
+    "title": "Cartola",
+    "releaseDate": "1974-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album102.jpg"
+  },
+  "genres": [
+    "samba"
+  ],
+  "releaseDate": "1974-01-01",
+  "plays": 4000000,
+  "songUrl": "http://linkparamusica.com/o_mundo_e_um_moinho.mp3",
+  "lyrics": "O mundo é um moinho...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Cartola",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e33"
+  },
+  "title": "Trem das Onze",
+  "duration": 240,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e34"
+    },
+    "name": "Adoniran Barbosa",
+    "genres": [
+      "samba"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e35"
+    },
+    "title": "O Melhor de Adoniran Barbosa",
+    "releaseDate": "1970-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album103.jpg"
+  },
+  "genres": [
+    "samba"
+  ],
+  "releaseDate": "1970-01-01",
+  "plays": 7000000,
+  "songUrl": "http://linkparamusica.com/trem_das_onze.mp3",
+  "lyrics": "Trem das Onze já passou...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Adoniran Barbosa",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e36"
+  },
+  "title": "Pelo Telefone",
+  "duration": 180,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e37"
+    },
+    "name": "Pereira",
+    "genres": [
+      "samba"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e38"
+    },
+    "title": "Samba de Raiz",
+    "releaseDate": "1916-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album104.jpg"
+  },
+  "genres": [
+    "samba"
+  ],
+  "releaseDate": "1916-01-01",
+  "plays": 3000000,
+  "songUrl": "http://linkparamusica.com/pelo_telefone.mp3",
+  "lyrics": "Pelo telefone, me liga pra eu saber...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Pereira",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e39"
+  },
+  "title": "Asa Branca",
+  "duration": 220,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e3a"
+    },
+    "name": "Luiz Gonzaga",
+    "genres": [
+      "forró",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e3b"
+    },
+    "title": "Asa Branca",
+    "releaseDate": "1947-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album105.jpg"
+  },
+  "genres": [
+    "forró"
+  ],
+  "releaseDate": "1947-01-01",
+  "plays": 8000000,
+  "songUrl": "http://linkparamusica.com/asa_branca.mp3",
+  "lyrics": "Quando olhei a terra ardendo em fogo...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Luiz Gonzaga",
+        "role": "composition"
+      },
+      {
+        "name": "Humberto Teixeira",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e3c"
+  },
+  "title": "Olha Pro Céu",
+  "duration": 210,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e3d"
+    },
+    "name": "Gonzaguinha",
+    "genres": [
+      "forró",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e3e"
+    },
+    "title": "Gonzaguinha",
+    "releaseDate": "1983-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album106.jpg"
+  },
+  "genres": [
+    "forró"
+  ],
+  "releaseDate": "1983-01-01",
+  "plays": 6000000,
+  "songUrl": "http://linkparamusica.com/olha_pro_ceu.mp3",
+  "lyrics": "Olha pro céu, meu amor...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Gonzaguinha",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e3f"
+  },
+  "title": "Xote das Meninas",
+  "duration": 180,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e40"
+    },
+    "name": "Luiz Gonzaga",
+    "genres": [
+      "forró"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e41"
+    },
+    "title": "Luiz Gonzaga",
+    "releaseDate": "1953-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album107.jpg"
+  },
+  "genres": [
+    "forró"
+  ],
+  "releaseDate": "1953-01-01",
+  "plays": 5000000,
+  "songUrl": "http://linkparamusica.com/xote_das_meninas.mp3",
+  "lyrics": "No Xote das Meninas, há uma lição...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Luiz Gonzaga",
+        "role": "composition"
+      },
+      {
+        "name": "Zé Dantas",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e42"
+  },
+  "title": "Frevo Mulher",
+  "duration": 240,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e43"
+    },
+    "name": "Capiba",
+    "genres": [
+      "forró",
+      "frevo"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e44"
+    },
+    "title": "Frevo Mulher",
+    "releaseDate": "1972-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album108.jpg"
+  },
+  "genres": [
+    "forró"
+  ],
+  "releaseDate": "1972-01-01",
+  "plays": 3000000,
+  "songUrl": "http://linkparamusica.com/frevo_mulher.mp3",
+  "lyrics": "Ai, ai, ai, que saudade do meu amor...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Capiba",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e45"
+  },
+  "title": "Vida de Viajante",
+  "duration": 250,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e46"
+    },
+    "name": "Luiz Gonzaga",
+    "genres": [
+      "forró"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e47"
+    },
+    "title": "Luiz Gonzaga",
+    "releaseDate": "1950-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album109.jpg"
+  },
+  "genres": [
+    "forró"
+  ],
+  "releaseDate": "1950-01-01",
+  "plays": 7000000,
+  "songUrl": "http://linkparamusica.com/vida_de_viajante.mp3",
+  "lyrics": "Quando eu vejo a vida andar pra trás...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Luiz Gonzaga",
+        "role": "composition"
+      },
+      {
+        "name": "Humberto Teixeira",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e57"
+  },
+  "title": "Vento no Litoral",
+  "duration": 300,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e58"
+    },
+    "name": "Legião Urbana",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e59"
+    },
+    "title": "O Descobrimento do Brasil",
+    "releaseDate": "1993-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album115.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "1993-01-01",
+  "plays": 4500000,
+  "songUrl": "http://linkparamusica.com/vento_no_litoral.mp3",
+  "lyrics": "Vento no litoral...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Renato Russo",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e5a"
+  },
+  "title": "O Tempo Não Para",
+  "duration": 210,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e5b"
+    },
+    "name": "Cazuza",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e5c"
+    },
+    "title": "Ideologia",
+    "releaseDate": "1988-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album116.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "1988-01-01",
+  "plays": 3200000,
+  "songUrl": "http://linkparamusica.com/o_tempo_nao_para.mp3",
+  "lyrics": "O tempo não para...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Cazuza",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e5d"
+  },
+  "title": "Flor de Lis",
+  "duration": 240,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e5e"
+    },
+    "name": "Djavan",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e5f"
+    },
+    "title": "Djavan",
+    "releaseDate": "1982-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album117.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "1982-01-01",
+  "plays": 2200000,
+  "songUrl": "http://linkparamusica.com/flor_de_lis.mp3",
+  "lyrics": "Flor de lis...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Djavan",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e60"
+  },
+  "title": "Que País é Este",
+  "duration": 200,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e61"
+    },
+    "name": "Legião Urbana",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e62"
+    },
+    "title": "Que País é Este",
+    "releaseDate": "1987-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album118.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "1987-01-01",
+  "plays": 3800000,
+  "songUrl": "http://linkparamusica.com/que_pais_e_este.mp3",
+  "lyrics": "Que país é este...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Renato Russo",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e63"
+  },
+  "title": "Lanterna dos Afogados",
+  "duration": 220,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e64"
+    },
+    "name": "Os Paralamas do Sucesso",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e65"
+    },
+    "title": "O Passo do Lui",
+    "releaseDate": "1990-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album119.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "1990-01-01",
+  "plays": 2900000,
+  "songUrl": "http://linkparamusica.com/lanterna_dos_afogados.mp3",
+  "lyrics": "A lanterna dos afogados...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Herbert Vianna",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e66"
+  },
+  "title": "Eduardo e Mônica",
+  "duration": 320,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e67"
+    },
+    "name": "Legião Urbana",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e68"
+    },
+    "title": "Dois",
+    "releaseDate": "1986-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album120.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "1986-01-01",
+  "plays": 5400000,
+  "songUrl": "http://linkparamusica.com/eduardo_e_monica.mp3",
+  "lyrics": "Eduardo e Mônica trocaram telefone...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Renato Russo",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e69"
+  },
+  "title": "Cazuza",
+  "duration": 290,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e6a"
+    },
+    "name": "Banda do Mar",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e6b"
+    },
+    "title": "Banda do Mar",
+    "releaseDate": "2014-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album121.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "2014-01-01",
+  "plays": 2700000,
+  "songUrl": "http://linkparamusica.com/cazuza.mp3",
+  "lyrics": "Cazuza...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Cazuza",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e6c"
+  },
+  "title": "Pintura Íntima",
+  "duration": 300,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e6d"
+    },
+    "name": "Os Paralamas do Sucesso",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e6e"
+    },
+    "title": "O Passo do Lui",
+    "releaseDate": "1990-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album122.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "1990-01-01",
+  "plays": 3400000,
+  "songUrl": "http://linkparamusica.com/pintura_intima.mp3",
+  "lyrics": "Pintura íntima...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Herbert Vianna",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e6f"
+  },
+  "title": "Cores do Vento",
+  "duration": 310,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e70"
+    },
+    "name": "Titãs",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e71"
+    },
+    "title": "Titanomaquia",
+    "releaseDate": "1993-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album123.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "1993-01-01",
+  "plays": 4100000,
+  "songUrl": "http://linkparamusica.com/cores_do_vento.mp3",
+  "lyrics": "Cores do vento...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Nando Reis",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e72"
+  },
+  "title": "Apenas Mais Uma de Amor",
+  "duration": 290,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e73"
+    },
+    "name": "Luan Santana",
+    "genres": [
+      "rock nacional",
+      "MPB"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e74"
+    },
+    "title": "O nosso tempo é hoje",
+    "releaseDate": "2012-01-01",
+    "coverImageUrl": "http://linkdaimagem.com/album124.jpg"
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "releaseDate": "2012-01-01",
+  "plays": 3900000,
+  "songUrl": "http://linkparamusica.com/apenas_mais_uma_de_amor.mp3",
+  "lyrics": "Apenas mais uma de amor...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Luan Santana",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e75"
+  },
+  "title": "Fearless",
+  "duration": 248,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "country"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e77"
+    },
+    "title": "Fearless",
+    "releaseDate": "2008-11-11",
+    "coverImageUrl": "http://linkdaimagem.com/fearless_album.jpg"
+  },
+  "genres": [
+    "country",
+    "pop"
+  ],
+  "releaseDate": "2008-11-11",
+  "plays": 3200000,
+  "songUrl": "http://linkparamusica.com/fearless.mp3",
+  "lyrics": "There's something 'bout the way the street looks when it's just rained...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e78"
+  },
+  "title": "Fifteen",
+  "duration": 300,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "country"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e77"
+    },
+    "title": "Fearless",
+    "releaseDate": "2008-11-11",
+    "coverImageUrl": "http://linkdaimagem.com/fearless_album.jpg"
+  },
+  "genres": [
+    "country",
+    "pop"
+  ],
+  "releaseDate": "2008-11-11",
+  "plays": 2900000,
+  "songUrl": "http://linkparamusica.com/fifteen.mp3",
+  "lyrics": "When all you wanted was to be wanted...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e79"
+  },
+  "title": "Love Story",
+  "duration": 240,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "country"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e77"
+    },
+    "title": "Fearless",
+    "releaseDate": "2008-11-11",
+    "coverImageUrl": "http://linkdaimagem.com/fearless_album.jpg"
+  },
+  "genres": [
+    "country",
+    "pop"
+  ],
+  "releaseDate": "2008-11-11",
+  "plays": 5000000,
+  "songUrl": "http://linkparamusica.com/love_story.mp3",
+  "lyrics": "We were both young when I first saw you...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e7a"
+  },
+  "title": "Hey Stephen",
+  "duration": 243,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "country"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e77"
+    },
+    "title": "Fearless",
+    "releaseDate": "2008-11-11",
+    "coverImageUrl": "http://linkdaimagem.com/fearless_album.jpg"
+  },
+  "genres": [
+    "country",
+    "pop"
+  ],
+  "releaseDate": "2008-11-11",
+  "plays": 2200000,
+  "songUrl": "http://linkparamusica.com/hey_stephen.mp3",
+  "lyrics": "Hey Stephen, I could give you fifty reasons...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e7b"
+  },
+  "title": "Breathe",
+  "duration": 262,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "country"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e77"
+    },
+    "title": "Fearless",
+    "releaseDate": "2008-11-11",
+    "coverImageUrl": "http://linkdaimagem.com/fearless_album.jpg"
+  },
+  "genres": [
+    "country",
+    "pop"
+  ],
+  "releaseDate": "2008-11-11",
+  "plays": 3100000,
+  "songUrl": "http://linkparamusica.com/breathe.mp3",
+  "lyrics": "And we know it's never simple, never easy...",
+  "features": [
+    {
+      "artistId": {
+        "$oid": "64d21c4767d0d8992e610e7c"
+      },
+      "name": "Colbie Caillat",
+      "role": "vocals"
+    }
+  ],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e7d"
+  },
+  "title": "...Ready For It?",
+  "duration": 215,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "electropop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e7e"
+    },
+    "title": "Reputation",
+    "releaseDate": "2017-11-10",
+    "coverImageUrl": "http://linkdaimagem.com/reputation_album.jpg"
+  },
+  "genres": [
+    "pop",
+    "electropop"
+  ],
+  "releaseDate": "2017-11-10",
+  "plays": 3500000,
+  "songUrl": "http://linkparamusica.com/ready_for_it.mp3",
+  "lyrics": "Knew I was a robber, first time that he saw me...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jack Antonoff",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e7f"
+  },
+  "title": "End Game",
+  "duration": 229,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "hip-hop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e7e"
+    },
+    "title": "Reputation",
+    "releaseDate": "2017-11-10",
+    "coverImageUrl": "http://linkdaimagem.com/reputation_album.jpg"
+  },
+  "genres": [
+    "pop",
+    "hip-hop"
+  ],
+  "releaseDate": "2017-11-10",
+  "plays": 4100000,
+  "songUrl": "http://linkparamusica.com/end_game.mp3",
+  "lyrics": "I wanna be your end game, I wanna be your first string...",
+  "features": [
+    {
+      "artistId": {
+        "$oid": "64d21c4767d0d8992e610e80"
+      },
+      "name": "Ed Sheeran",
+      "role": "vocals"
+    },
+    {
+      "artistId": {
+        "$oid": "64d21c4767d0d8992e610e81"
+      },
+      "name": "Future",
+      "role": "vocals"
+    }
+  ],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jack Antonoff",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e82"
+  },
+  "title": "I Did Something Bad",
+  "duration": 222,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "synth-pop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e7e"
+    },
+    "title": "Reputation",
+    "releaseDate": "2017-11-10",
+    "coverImageUrl": "http://linkdaimagem.com/reputation_album.jpg"
+  },
+  "genres": [
+    "pop",
+    "synth-pop"
+  ],
+  "releaseDate": "2017-11-10",
+  "plays": 2800000,
+  "songUrl": "http://linkparamusica.com/i_did_something_bad.mp3",
+  "lyrics": "They said I did something bad, why's it feel so good...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jack Antonoff",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e83"
+  },
+  "title": "Don't Blame Me",
+  "duration": 230,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "electropop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e7e"
+    },
+    "title": "Reputation",
+    "releaseDate": "2017-11-10",
+    "coverImageUrl": "http://linkdaimagem.com/reputation_album.jpg"
+  },
+  "genres": [
+    "pop",
+    "electropop"
+  ],
+  "releaseDate": "2017-11-10",
+  "plays": 3700000,
+  "songUrl": "http://linkparamusica.com/dont_blame_me.mp3",
+  "lyrics": "Don't blame me, love made me crazy...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jack Antonoff",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+},
+{
+  "_id": {
+    "$oid": "64d21c4767d0d8992e610e84"
+  },
+  "title": "Delicate",
+  "duration": 227,
+  "artist": {
+    "artistId": {
+      "$oid": "64d21c4767d0d8992e610e76"
+    },
+    "name": "Taylor Swift",
+    "genres": [
+      "pop",
+      "electropop"
+    ]
+  },
+  "album": {
+    "albumId": {
+      "$oid": "64d21c4767d0d8992e610e7e"
+    },
+    "title": "Reputation",
+    "releaseDate": "2017-11-10",
+    "coverImageUrl": "http://linkdaimagem.com/reputation_album.jpg"
+  },
+  "genres": [
+    "pop",
+    "electropop"
+  ],
+  "releaseDate": "2017-11-10",
+  "plays": 3900000,
+  "songUrl": "http://linkparamusica.com/delicate.mp3",
+  "lyrics": "This ain't for the best, my reputation's never been worse...",
+  "features": [],
+  "credits": {
+    "composers": [
+      {
+        "name": "Taylor Swift",
+        "role": "composition"
+      }
+    ],
+    "producers": [
+      {
+        "name": "Jack Antonoff",
+        "role": "production"
+      }
+    ],
+    "additionalCredits": []
+  }
+}]
