@@ -471,45 +471,4 @@ db.clientes.aggregate([
 ]);
 
 
-// relaciona as duas coleções
-db.clientes.aggregate([
-    {
-        $match: {
-            name: "Julia Costa"  
-        }
-    },
-    {
-        $lookup: {
-            from: "songs",                    
-            localField: "likedSongs.oid",       // Campo contendo a lista de músicas curtidas
-            foreignField: "_id.oid",            // Comparação direta com o _id da coleção "musicas"
-            as: "musicasDetalhadas"         // As músicas detalhadas são armazenadas aqui
-        }
-    },
-    {
-        $project: {
-            name: 1,                              
-            musicasDetalhadas: {
-                $filter: {                        // Aplica um filtro para garantir que só as músicas curtidas sejam mostradas
-                    input: "$musicasDetalhadas",
-                    as: "musica",
-                    cond: { 
-                        $in: ["$$musica._id", "$likedSongs"]  // Verifica se o _id da música está na lista de likedSongs
-                    }
-                }
-            }
-        }
-    },
-    {
-        $addFields: {
-            totalMusicas: { $size: "$musicasDetalhadas" }  // Conta o número de músicas detalhadas
-        }
-    },
-    {
-        $project: {
-            name: 1,                              
-            musicasDetalhadas: 1,                 
-            totalMusicas: 1                       // Exibe a contagem das músicas
-        }
-    }
-]);
+  
